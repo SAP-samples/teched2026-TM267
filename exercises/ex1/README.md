@@ -1,44 +1,31 @@
-# Exercise 1 - Exercise 1 Description
+### Abstract
 
-In this exercise, we will create...
+Familiarize yourself with SAP Central Business Configuration and Joule the central tooling for the Business Configuration Assistant. 
 
-## Exercise 1.1 Sub Exercise 1 Description
+SAP Central Business Configuration acts as the backbone for your implementation and provides the apps for scoping, organizational structure setup and configuration.
 
-After completing these steps you will have created...
+Each implementation in SAP Central Business Configuration is covered in an own workspace. Additional context (e.g. legacy system data) can be assigned to each Workspace and acts as a Basis for the agents.
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+Note: Unlike in a real implementation we prepared individual workspaces for the exercises to avoid unneccessary waiting time for longer Background processes. You will be guided to select the correct Workspace as part of the task.    
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+Joule is the Engagement layer to interact with the Business Configuration Assistant and herewith provides the entry point to the agentic Transformation.
 
 
+1. Open SAP Central Business Configuration in a new browser tab.
+   [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
+Log on with the provided user credentials.
+(example TM267-*xx* - where *xx* is your assigned number)
+Common password: Teched2026
+3. Select Workspace **TM267-00_Migration_Scoping**
+4. Open Joule in a separate browser tab
+5. Initiate context in Joule with following prompt:
+**XYZ**
 
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
 
 
 ## Summary
 
-You've now ...
+You've now accessed system and initiated Joule
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Define your Scope](../ex2/README.md)
 
