@@ -13,7 +13,7 @@ The agent is invoked automatically by the Business Configuration Assistant when 
 
 Note: A first scope proposal is already pre-loaded to the selected workspace
 
-
+Workspace: **TM267-00_Migration_Scoping**
 
 1. Open the define your scope app and review the selected scope
 2. Go to the Transformation Cockpit and review scoping related Tasks
@@ -37,5 +37,5 @@ Limitation: Only issues related to license-dependent scenarios and scenarios not
 
 You've now accessed system and initiated Joule
 
-Continue to - [Exercise 2 - Define your Scope](../ex2/README.md)
+Continue to - [Exercise 2 - Org](../ex2/README.md)
 
