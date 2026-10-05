@@ -1,26 +1,36 @@
+**Exercise 1** — Define your scope
+
 ### Abstract
 
-Familiarize yourself with SAP Central Business Configuration and Joule the central tooling for the Business Configuration Assistant. 
+The Transformation Cockpit allows a central overview across all relevant deviations between the legacy System and the target solution. 
 
-SAP Central Business Configuration acts as the backbone for your implementation and provides the apps for scoping, organizational structure setup and configuration.
+The **Business Configuration Scoping Agent** hereby helps you build accurate scope proposals based on your migration content from the staging area and SAP Best Practices. It answers scope-related questions, validates selections against country policies and licensing entitlements, and generates deviation reports on demand.
 
-Each implementation in SAP Central Business Configuration is covered in an own workspace. Additional context (e.g. legacy system data) can be assigned to each Workspace and acts as a Basis for the agents.
+The agent is invoked automatically by the Business Configuration Assistant when the user intent is scoping-related. You do not call it directly.
 
-Note: Unlike in a real implementation we prepared individual workspaces for the exercises to avoid unneccessary waiting time for longer Background processes. You will be guided to select the correct Workspace as part of the task.    
+> \*\*Important:\*\*
+> The Scoping Agent will never confirm scope on your behalf. After reviewing the proposal, you must confirm it manually in the \*Define Scope\* app. Joule always provides a direct navigation link.
 
-Joule is the Engagement layer to interact with the Business Configuration Assistant and herewith provides the entry point to the agentic Transformation.
+Note: A first scope proposal is already pre-loaded to the selected workspace
 
 
-1. Open SAP Central Business Configuration in a new browser tab.
-   [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
-Log on with the provided user credentials.
-(example TM267-*xx* - where *xx* is your assigned number)
-Common password: Teched2026
-3. Select Workspace **TM267-00_Migration_Scoping**
-4. Open Joule in a separate browser tab
-5. Initiate context in Joule with following prompt:
-**XYZ**
 
+1. Open the define your scope app and review the selected scope
+2. Go to the Transformation Cockpit and review scoping related Tasks
+3. Go to Joule and aim to resolve scoping issue XYZ
+4. Review the results in the Scoping App and Transformation Cockpit
+
+In the Transformation Cockpit, you can: 
+
+- Review issues including their severity level.
+
+- View all scoping scenarios from the legacy/staging system.
+
+- Inspect each scenario's details and issues 
+
+- Download the scenario list — usable to create a support case 
+
+Limitation: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed.
 
 
 ## Summary
