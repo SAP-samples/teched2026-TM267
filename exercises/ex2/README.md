@@ -23,6 +23,8 @@ Note: A first organizational structure proposal is already pre-loaded to the wor
 
 
 
+ 
+
 
 
 **Exercise 3.1** — Analyze Configuration Delta
@@ -42,4 +44,16 @@ The Configuration Comparisson app allows a detailed assesment of the configurati
 2. Go to the Transformation Cockpit and review Configuration related Tasks
 3. Select configuration issue and navigate to the Comparisson App
 4. Review the deviations between ECC data and reference Content
+
+In the Transformation Cockpit, participants can: 
+
+ -Review issues including their severity level 
+
+-Compare legacy configuration vs. Best Practice content side by side in Configuration Compare 
+
+-Track issue status (same status management as org) 
+
+-View related SSCUIs connected to each configuration object 
+
+Note: No live S/4HANA connection — direct navigation into a configuration activity is not possible. 
    
