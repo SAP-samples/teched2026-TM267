@@ -13,7 +13,9 @@ The agent is invoked automatically by the Business Configuration Assistant when 
 
 Note: A first scope proposal is already pre-loaded to the selected workspace
 
-Workspace: **TM267-00_Migration_Scoping**
+Workspace: **TM267-xx_Migration_Scoping**
+
+XX - is your assigned number
 
 1. Open the define your scope app and review the selected scope
 2. Go to the Transformation Cockpit and review scoping related Tasks
