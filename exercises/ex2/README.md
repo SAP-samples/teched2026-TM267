@@ -1,4 +1,4 @@
-System    [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
+System:    [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
 
 **Exercise 3** — Define your Organizational Structure
 
