@@ -37,5 +37,5 @@ Note: Only issues related to license-dependent scenarios and scenarios not cover
 
 You've now accessed system and initiated Joule
 
-Continue to - [Exercise 2 - Org](../ex2/README.md)
+Continue to - [Exercise 2](../ex2/README.md)
 
