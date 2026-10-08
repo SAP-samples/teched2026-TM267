@@ -10,7 +10,7 @@ The agent is invoked automatically by the Business Configuration Assistant when 
 > The Organizational Structure Agent will never confirm scope on your behalf. After reviewing the proposal, you must confirm it manually in the \\\*Organizationak Structure\\\* app. Joule always provides a direct navigation link.
 
 Note: A first organizational structure proposal is already pre-loaded to the workspace
-
+Workspace: **TM267-xx_Migration_Org**
 
 
 1. Switch the Workspace and open worksapce TM267-xx_Migration_Org (XX being your assigned number) 
@@ -50,6 +50,7 @@ The Configuration Comparisson app allows a detailed assesment of the configurati
 > The agent analyzes and recommends — it does not apply configuration changes automatically. Configuration adjustments are executed manually in the relevant configuration activity (SSCUI) after reviewing the agent's recommendations. 
 
 </br>
+Workspace: **TM267-xx_Migration_Configuration** 
 
 1. Switch the Workspace and open worksapce TM267-xx_Migration_Configuration (XX being your number) 
 2. Go to the Transformation Cockpit and review Configuration related Tasks
