@@ -30,7 +30,7 @@ In the Transformation Cockpit, you can:
 
 - Download the scenario list — usable to create a support case 
 
-Limitation: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed.
+Note: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed.
 
 
 ## Summary
