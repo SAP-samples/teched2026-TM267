@@ -26,11 +26,11 @@ Joule is the Engagement layer to interact with the Business Configuration Assist
 
 
 1. Open SAP Central Business Configuration in a new browser tab.
-   [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
+2. System    [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
 Log on with the provided user credentials.
 (example TM267-*xx* - where *xx* is your assigned number)
 Common password: Teched2026
-3. Select Workspace **TM267-00_Migration_Scoping**
+3. Select Workspace **TM267-xx_Migration_Scoping**  (xx- being your assigned number)
 4. Open Joule in a separate browser tab
 5. Initiate context in Joule with following prompt:
 **XYZ**
