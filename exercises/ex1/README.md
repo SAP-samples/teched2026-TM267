@@ -9,12 +9,11 @@ The agent is invoked automatically by the Business Configuration Assistant when 
 > \\\*\\\*Important:\\\*\\\*
 > The Organizational Structure Agent will never confirm org on your behalf. After reviewing the proposal, you must confirm it manually in the \\\*Organizational Structure\\\* app. Joule always provides a direct navigation link.
 
-Note: A first organizational structure proposal is already pre-loaded to the workspace
-Workspace: **TM267-xx_Migration_Org**
+Note: For demo purpose an organizational structure proposal is already pre-loaded to the workspace: **TM267-xx_Migration_Org**
 
 In the Transformation Cockpit, you can: 
 
-- Review issues including their severity level 
+- Review issues and their severity level 
 
 - Review issues per org unit (e.g. missing city, name too long) 
 
@@ -22,25 +21,23 @@ In the Transformation Cockpit, you can:
 
 - Track status — mark issues as *In Progress* or *Resolved* via status buttons 
 
-Note: Resolved issues do not disappear from the list automatically — they must be manually marked as Resolved to reflect the correct status.
+Note: Resolved issues do not disappear from the list automatically — they must be manually marked as *Resolved* to reflect the correct status.
 
 
 1. Open [SAP Central Business Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/).
-2. Login with the provided credentioals
+2. Logon with the provided credentials.
 3. Go to *Settings*.
 4. Choose *Switch Workspace* in the upper right corner.
 5. Switch to the workspace *TM267-xx_Migration_Org*.
->Note:  
-Use the *Switch Workspace* button, in the Action column.  
-6. Open the define your organizational Structure app and review the created org structure
->Note:  
-The org strcture was already created during migration and the units are not yet confirmed so you can still modify them.  
-7. Go to the Transformation Cockpit and review organizational Structure related tasks
-8. Aim to resolve organizational structure issue
+>Note:  Use the *Switch Workspace* button, in the *Action* column.  
+6. Open the define your organizational Structure app and review the created org structure.
+>Note:  The org strcture was already created during migration and the units are not yet confirmed so you can still modify them.  
+7. Go to the Transformation Cockpit and review organizational Structure related tasks.
+8. Aim to resolve organizational structure issue.
 >Example:
 >Add missing city for unit 1010 Plant(check)
-9. Review the results in the Org App and in the Transformation Cockpit
->Note: Once the issue is resolved in the Organizational Structure app, you an set the status of the issue in Transformation Cockpit to resolved. 
+9. Review the results in the Org App and in the Transformation Cockpit.
+>Note: Once the issue is resolved in the Organizational Structure app, you can set the status of the issue in Transformation Cockpit to resolved. 
 
 
 ## Summary
