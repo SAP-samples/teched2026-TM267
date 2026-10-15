@@ -26,6 +26,19 @@ Joule is the Engagement layer to interact with the Business Configuration Assist
 
 **Exercise 1 - Explore Scoping issues detected during migration**
 
+### Abstract
+
+The Transformation Cockpit allows a central overview across all relevant deviations between the legacy system and the target solution. 
+
+The **Business Configuration Scoping Agent** hereby helps you build accurate scope proposals based on your migration content from the staging area and SAP Best Practices. It answers scope-related questions, validates selections against country policies and licensing entitlements, and generates deviation reports on demand.
+
+The agent is invoked automatically by the Business Configuration Assistant when the user intent is scoping-related. You do not call it directly.
+
+> \*\*Important:\*\*
+> The Scoping Agent will never confirm scope on your behalf. After reviewing the proposal, you must confirm it manually in the \*Define Scope\* app. Joule always provides a direct navigation link.
+
+Note: A first scope proposal is already pre-loaded to the selected workspace
+
 In the Transformation Cockpit you can:
 - Review issues including their severity level 
 
@@ -36,6 +49,8 @@ In the Transformation Cockpit you can:
 - Download the scenario list — usable to create a support case 
 
 Note: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed. 
+
+
 
 1. Open [SAP Central Businsess Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
 Log on with the provided user credentials. 
