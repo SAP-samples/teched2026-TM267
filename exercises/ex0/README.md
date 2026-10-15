@@ -30,44 +30,44 @@ Joule is the Engagement layer to interact with the Business Configuration Assist
 
 The Transformation Cockpit allows a central overview across all relevant deviations between the legacy system and the target solution. 
 
-The **Business Configuration Scoping Agent** hereby helps you build accurate scope proposals based on your migration content from the staging area and SAP Best Practices. It answers scope-related questions, validates selections against country policies and licensing entitlements, and generates deviation reports on demand.
+The **Business Configuration Scoping Agent** hereby helps you to build accurate scope proposals based on your migration content in the staging area and SAP Best Practices preconfigured content. It answers scope-related questions, validates selections against country policies and licensing entitlements, and generates deviation reports on demand.
 
 The agent is invoked automatically by the Business Configuration Assistant when the user intent is scoping-related. You do not call it directly.
 
 > \*\*Important:\*\*
-> The Scoping Agent will never confirm scope on your behalf. After reviewing the proposal, you must confirm it manually in the \*Define Scope\* app. Joule always provides a direct navigation link.
+> The Scoping Agent will never confirm scope on your behalf. After reviewing the proposal, you must confirm it manually in the *Define Scope* app. Joule always provides a direct navigation link.
 
-Note: A first scope proposal is already pre-loaded to the selected workspace
+Note: For demo purpose a scope proposal is already pre-loaded to the selected workspace.
 
 In the Transformation Cockpit you can:
-- Review issues including their severity level 
+- Review issues and their severity level 
 
-- View all scoping scenarios from the legacy/staging system 
+- View all solution processes from the legacy/staging system 
 
-- Inspect each scenario's details and issues 
+- Inspect each solution process details and issues 
 
-- Download the scenario list — usable to create a support case 
+- Download the solution process list — useful to create a support case to ask SAP support to add e.g. all respective license-dependent solution processes
 
-Note: issues related to license-dependent scenarios, scenarios not covered by Best Practice content or scenarios with constraints are displayed. 
+Note: issues related to license-dependent solution processes, solution processes which are not covered by SAP Best Practice content or solution processes with constraints are displayed. 
 
 
 
-1. Open [SAP Central Businsess Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
-Log on with the provided user credentials. 
+1. Open [SAP Central Business Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
+Logon with the provided user credentials. 
 >Note: 
 Workspaces are pre-created. You have already been assigned as a team member to the workspace **TM267-xx_Migration_Scoping** related to this exercise so that you can directly start the exercise.
 
 2. Open the *Transformation Cockpit* and review the issues detected during migration.
 >Note: 
-Identify the scenarios which need to be added via a ticket and the scenarios which cannot be added at all, since they are not part of the best practices. Issue list can also be downloaded for your documentation. 
->Example:
-BH1 - was pricing relevant, was not added to scope and can only be added via a support case.
+Identify the solution processes which need to be added via a ticket and the solution processes which cannot be added at all, since they are not part of the SAP Best Practices. An issue list can also be downloaded for your reference. 
+>Examples:
+- BH1 - is pricing relevant, was not automatically added to scope and can only be added via a support case.
 
-3. Check scenario 5W2 in the Transformation Cockpit. This scenario has a constraint and can only be added to scope together with a group ledger.
+- Check scenario 5W2 in the Transformation Cockpit. This solution processes has a constraint and can only be added to scope together with a group ledger.
 >Note:
-Details about scenario usage and constraints can be found in the [SAP Process Navigator](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608?region=DE) 
-5. Open *Define Scope* , search for 5W2 and add it to scope.
-6. Mark the issue in Transformation Cockpit as *Resolved*
+Details about solution process usage and constraints can be found in the [SAP Process Navigator](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608?region=DE) 
+3. Open *Define Scope* , search for solution process 5W2 and add it to scope.
+4. Mark the issue in Transformation Cockpit as *Resolved*
 
 
 ## Summary
