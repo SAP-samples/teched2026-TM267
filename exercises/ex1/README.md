@@ -1,5 +1,3 @@
-System:    [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
-
 **Exercise 2** — Review the migrated Organization Strcture
 
 ## Abstract
