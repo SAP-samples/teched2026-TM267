@@ -1,46 +1,53 @@
 System:    [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
 
+**Exercise 2** — Review the migrated Organization Strcture
 
-**Exercise 1** — Define your scope
+## Abstract
 
-### Abstract
+The **Business Configuration Organizational Structure Agent** helps you build an enterprise organizational structure proposal based on your migration content from the staging area and SAP Best Practices. It answers org-related questions and validates selections against the SAP reference org model as well as the selected scope.
 
-The Transformation Cockpit allows a central overview across all relevant deviations between the legacy System and the target solution. 
+The agent is invoked automatically by the Business Configuration Assistant when the user intent is organizational structure-related. You do not call it directly.
 
-The **Business Configuration Scoping Agent** hereby helps you build accurate scope proposals based on your migration content from the staging area and SAP Best Practices. It answers scope-related questions, validates selections against country policies and licensing entitlements, and generates deviation reports on demand.
+> \\\*\\\*Important:\\\*\\\*
+> The Organizational Structure Agent will never confirm org on your behalf. After reviewing the proposal, you must confirm it manually in the \\\*Organizational Structure\\\* app. Joule always provides a direct navigation link.
 
-The agent is invoked automatically by the Business Configuration Assistant when the user intent is scoping-related. You do not call it directly.
-
-> \*\*Important:\*\*
-> The Scoping Agent will never confirm scope on your behalf. After reviewing the proposal, you must confirm it manually in the \*Define Scope\* app. Joule always provides a direct navigation link.
-
-Note: A first scope proposal is already pre-loaded to the selected workspace
-
-Workspace: **TM267-xx_Migration_Scoping**
-
-XX - is your assigned number
-
-1. Open the define your scope app and review the selected scope
-2. Go to the Transformation Cockpit and review scoping related Tasks
-3. Go to Joule and aim to resolve scoping issue XYZ
-4. Review the results in the Scoping App and Transformation Cockpit
+Note: A first organizational structure proposal is already pre-loaded to the workspace
+Workspace: **TM267-xx_Migration_Org**
 
 In the Transformation Cockpit, you can: 
 
-- Review issues including their severity level.
+- Review issues including their severity level 
 
-- View all scoping scenarios from the legacy/staging system.
+- Review issues per org unit (e.g. missing city, name too long) 
 
-- Inspect each scenario's details and issues 
+- Navigate directly from the Transformation Cockpit to the Org app to fix the issues
 
-- Download the scenario list — usable to create a support case 
+- Track status — mark issues as *In Progress* or *Resolved* via status buttons 
 
-Note: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed.
+Note: Resolved issues do not disappear from the list automatically — they must be manually marked as Resolved to reflect the correct status.
+
+
+1. Open [SAP Central Business Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/).
+2. Login with the provided credentioals
+3. Go to *Settings*.
+4. Choose *Switch Workspace* in the upper right corner.
+5. Switch to the workspace *TM267-xx_Migration_Org*.
+>Note:  
+Use the *Switch Workspace* button, in the Action column.  
+6. Open the define your organizational Structure app and review the created org structure
+>Note:  
+The org strcture was already created during migration and the units are not yet confirmed so you can still modify them.  
+7. Go to the Transformation Cockpit and review organizational Structure related tasks
+8. Aim to resolve organizational structure issue
+>Example:
+>Add missing city for unit 1010 Plant(check)
+9. Review the results in the Org App and in the Transformation Cockpit
+>Note: Once the issue is resolved in the Organizational Structure app, you an set the status of the issue in Transformation Cockpit to resolved. 
 
 
 ## Summary
 
-You've now accessed system and initiated Joule
+You've now used the Transformation Cockpit to resolve the issues detected during the org migration. 
 
-Continue to - [Exercise 2](../ex2/README.md)
+Continue to - [Exercise 3](../ex2/README.md)
 
