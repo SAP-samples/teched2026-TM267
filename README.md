@@ -13,9 +13,9 @@ This session introduces attendees to Business Configuration Assistant & Agents w
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0)
-- [Exercise 1 - Define your scope](exercises/ex1/)
-- [Exercise 2 - Define your Organizational Structure and Analyze Configuration Delta](exercises/ex2/)
+- [Exercise 1 - Explore Migrated Scope](exercises/ex0)
+- [Exercise 2 - Review your migrated Organizational Structure ](exercises/ex1/)
+- [Exercise 3 - Analyze Configuration Deltas](exercises/ex2/)
 
 
 **IMPORTANT**
