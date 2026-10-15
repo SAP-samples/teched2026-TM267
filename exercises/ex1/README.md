@@ -6,8 +6,8 @@ The **Business Configuration Organizational Structure Agent** helps you build an
 
 The agent is invoked automatically by the Business Configuration Assistant when the user intent is organizational structure-related. You do not call it directly.
 
-> \\\*\\\*Important:\\\*\\\*
-> The Organizational Structure Agent will never confirm org on your behalf. After reviewing the proposal, you must confirm it manually in the \\\*Organizational Structure\\\* app. Joule always provides a direct navigation link.
+> **Important:**
+> The Organizational Structure Agent will never confirm org on your behalf. After reviewing the proposal, you must confirm it manually in the *Organizational Structure* app. Joule always provides a direct navigation link.
 
 Note: For demo purpose an organizational structure proposal is already pre-loaded to the workspace: **TM267-xx_Migration_Org**
 
