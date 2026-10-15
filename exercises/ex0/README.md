@@ -70,4 +70,4 @@ BH1 - was pricing relevant, was not added to scope and can only be added via a s
 
 You have used the Transformation Cockpit to analyze scoping issues detected during migration. 
 
-Now, you can continue to - [Exercise 2] (../ex1/README.md)
+Now, you can continue to - [Exercise 2](../ex1/README.md)
