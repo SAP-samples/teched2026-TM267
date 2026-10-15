@@ -48,7 +48,7 @@ In the Transformation Cockpit you can:
 
 - Download the scenario list — usable to create a support case 
 
-Note: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed. 
+Note: issues related to license-dependent scenarios, scenarios not covered by Best Practice content or scenarios with constraints are displayed. 
 
 
 
@@ -63,7 +63,11 @@ Identify the scenarios which need to be added via a ticket and the scenarios whi
 >Example:
 BH1 - was pricing relevant, was not added to scope and can only be added via a support case.
 
-3. TBD
+3. Check scenario 5W2 in the Transformation Cockpit. This scenario has a constraint and can only be added to scope together with a group ledger.
+>Note:
+Details about scenario usage and constraints can be found in the [SAP Process Navigator](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608?region=DE) 
+5. Open *Define Scope* , search for 5W2 and add it to scope.
+6. Mark the issue in Transformation Cockpit as *Resolved*
 
 
 ## Summary
