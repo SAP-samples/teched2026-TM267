@@ -24,18 +24,34 @@ Note: Unlike in a real implementation we prepared individual workspaces for the 
 
 Joule is the Engagement layer to interact with the Business Configuration Assistant and herewith provides the entry point to the agentic Transformation.
 
+**Exercise 1 - Explore Scoping issues detected during migration**
 
-1. Open SAP Central Business Configuration in a new browser tab.
-2. System    [https://my37555731.trn01.cbc.eu.one.cloud.sap](https://my37555731.trn01.cbc.eu.one.cloud.sap/ ) . 
-Log on with the provided user credentials.
-(example TM267-*xx* - where *xx* is your assigned number)
-Common password: Teched2026
-3. Select Workspace **TM267-xx_Migration_Scoping**  (xx- being your assigned number)
-4. Open Joule in a separate browser tab
-5. Initiate context in Joule with following prompt:
-**XYZ**
+In the Transformation Cockpit you can:
+- Review issues including their severity level 
+
+- View all scoping scenarios from the legacy/staging system 
+
+- Inspect each scenario's details and issues 
+
+- Download the scenario list — usable to create a support case 
+
+Note: Only issues related to license-dependent scenarios and scenarios not covered by Best Practice content are displayed. 
+
+1. Open [SAP Central Businsess Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
+Log on with the provided user credentials. 
+>Note: 
+Workspaces are pre-created. You have already been assigned as a team member to the workspace **TM267-xx_Migration_Scoping** related to this exercise so that you can directly start the exercise.
+
+2. Open the *Transformation Cockpit* and review the issues detected during migration.
+>Note: 
+Identify the scenarios which need to be added via a ticket and the scenarios which cannot be added at all, since they are not part of the best practices. Issue list can also be downloaded for your documentation. 
+>Example:
+BH1 - was pricing relevant, was not added to scope and can only be added via a support case.
+
+3. TBD
+
 
 ## Summary
 
 Now that you have familiarized with the Assistant and Agents
-continue to - [Exercise 1 - Define your Scope(../ex1/README.md)
+continue to - [Exercise 2 (../ex1/README.md)
