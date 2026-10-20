@@ -35,7 +35,10 @@ Note: Resolved issues do not disappear from the list automatically — they must
 7. Go to the Transformation Cockpit and review organizational Structure related tasks.
 8. Aim to resolve organizational structure issue.
 >Example:
->Add missing city for unit 1010 Plant(check)
+>Add missing city for 1020 plant or correct name length for 1010 plant.
+>
+>Note:  In case units are missing basic information in your legacy system, during migration those units will not be created. You will need to create them manually.
+>>For example, in case of missing country information, the units are not present in the system so you need to create the units which did not have country information from scratch. 
 9. Review the results in the Org App and in the Transformation Cockpit.
 >Note: Once the issue is resolved in the Organizational Structure app, you can set the status of the issue in Transformation Cockpit to resolved. 
 
