@@ -53,7 +53,7 @@ Note: issues related to license-dependent solution processes, solution processes
 
 
 1. Open [SAP Central Business Configuration](https://my37555731.trn01.cbc.eu.one.cloud.sap/) in a new browser tab. 
-Logon with the provided user credentials. 
+Logon with the provided user credentials. (example: User TM267-xx with password Teched2026 , xx - is your assigned number)
 >Note: 
 Workspaces are pre-created. You have already been assigned as a team member to the workspace **TM267-xx_Migration_Scoping** related to this exercise so that you can directly start the exercise.
 
