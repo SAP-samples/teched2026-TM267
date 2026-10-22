@@ -56,7 +56,9 @@ Note: issues related to license-dependent solution processes, solution processes
 Logon with the provided user credentials. (example: User TM267-xx with password Teched2026 , xx - is your assigned number)
 >Note: 
 Workspaces are pre-created. You have already been assigned as a team member to the workspace **TM267-xx_Migration_Scoping** related to this exercise so that you can directly start the exercise.
-2. Switch to the workspace *TM267-xx_Migration_Scoping**.
+2. If you are not in the *TM267-xx_Migration_Scoping* workspace switch to the workspace *TM267-xx_Migration_Scoping**. Skip this step if you are in the workspace already.
+><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efe4f69f-bf19-4b0d-a9f0-6ca2be98d59c" />
+
 >Note:  
 Use the *Switch Workspace* button, in the *Action* column.
 
