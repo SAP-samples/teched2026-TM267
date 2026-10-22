@@ -33,12 +33,15 @@ Note: No live S/4HANA system connection established — direct navigation into a
 >Note:  
 Use the *Switch Workspace* button, in the *Action* column.  
 6. Go to the Transformation Cockpit and review configuration related tasks.
+>Filter Configuration issues using the filters option
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e4ded74-03a8-4d61-951b-2ed6ff9b778b" /> 
+
 >Note:
-Check the following configuration settings for differences (copy and paste the texts below into the search help of the system): 
+Check the following configuration issues for differences (copy and paste the texts below into the search help of the system): 
 
 - Billing: Document Types: Multiple data inconsistencies detected 
 
-- BP Roles: Multiple data inconsistencies detected 
+- BP Roles: Texts: Multiple data inconsistencies detected 
 
 - Transaction-Dependent Defaults: Invoice Verification: Multiple data inconsistencies detected 
 
@@ -47,8 +50,10 @@ Check the following configuration settings for differences (copy and paste the t
 - Customers: Incoterms: Texts: Multiple data inconsistencies detected
   
 7. Select a configuration issue and navigate to the *Comparison App*.
-8. Review the deviations between ECC data and reference content.
-9. Identify the related configuration activities (SSCUIs) for which the selected issue occured.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/539db38f-c57d-4a24-bf0b-ec9783147833" />
+
+9. Review the deviations between ECC data and reference content.
+>Note: You can identify the related configuration activities (SSCUIs) for which the selected issue occurred using *Links to SSCUIs* button
 
 **Summary**
 You've now used the Transformation Cockpit to resolve the issues detected during the configuration migration.
