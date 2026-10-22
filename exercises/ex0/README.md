@@ -59,7 +59,12 @@ Workspaces are pre-created. You have already been assigned as a team member to t
 
 2. Open the *Transformation Cockpit* and review the issues detected during migration.
 >Note: 
-Identify the solution processes which need to be added via a ticket and the solution processes which cannot be added at all, since they are not part of the SAP Best Practices. An issue list can also be downloaded for your reference. 
+Identify the solution processes which need to be added via a ticket and the solution processes which cannot be added at all, since they are not part of the SAP Best Practices. An issue list can also be downloaded for your reference.
+>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9aa1cb2-61b8-491e-a74e-aedde25d7abd" />
+
+
+
 >Examples:
 - BH1 - is pricing relevant, was not automatically added to scope and can only be added via a support case.
 
@@ -67,6 +72,8 @@ Identify the solution processes which need to be added via a ticket and the solu
 >Note:
 Details about solution process usage and constraints can be found in the [SAP Process Navigator](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608?region=DE) 
 3. Open *Scope* app , search for solution process 5W2 and add it to scope. Confirm the warning which comes up and the solution process is added to your scope.
+><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d8257d-1246-4739-9044-b36318e60596" />
+
 4. Mark the issue in Transformation Cockpit as *In Progress* and then to *Resolved*
 
 
