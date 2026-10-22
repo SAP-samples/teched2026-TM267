@@ -74,7 +74,7 @@ Details about solution process usage and constraints can be found in the [SAP Pr
 3. Open *Scope* app , search for solution process 5W2 and add it to scope. Confirm the warning which comes up and the solution process is added to your scope.
 ><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d8257d-1246-4739-9044-b36318e60596" />
 
-4. Mark the issue in Transformation Cockpit as *In Progress* and then to *Resolved*
+4. Mark the issue for the scenario 5W2 in Transformation Cockpit as *In Progress* and then to *Resolved*
 
 
 ## Summary
