@@ -56,8 +56,11 @@ Note: issues related to license-dependent solution processes, solution processes
 Logon with the provided user credentials. (example: User TM267-xx with password Teched2026 , xx - is your assigned number)
 >Note: 
 Workspaces are pre-created. You have already been assigned as a team member to the workspace **TM267-xx_Migration_Scoping** related to this exercise so that you can directly start the exercise.
+2. Switch to the workspace *TM267-xx_Migration_Scoping**.
+>Note:  
+Use the *Switch Workspace* button, in the *Action* column.
 
-2. Open the *Transformation Cockpit* and review the issues detected during migration.
+3. Open the *Transformation Cockpit* and review the issues detected during migration.
 >Note: 
 Identify the solution processes which need to be added via a ticket and the solution processes which cannot be added at all, since they are not part of the SAP Best Practices. An issue list can also be downloaded for your reference.
 >
@@ -71,10 +74,10 @@ Identify the solution processes which need to be added via a ticket and the solu
 - Check scenario 5W2 in the Transformation Cockpit. This solution processes has a constraint and can only be added to scope together with a group ledger.
 >Note:
 Details about solution process usage and constraints can be found in the [SAP Process Navigator](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608?region=DE) 
-3. Open *Scope* app , search for solution process 5W2 and add it to scope. Confirm the warning which comes up and the solution process is added to your scope.
+4. Open *Scope* app , search for solution process 5W2 and add it to scope. Confirm the warning which comes up and the solution process is added to your scope.
 ><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53d8257d-1246-4739-9044-b36318e60596" />
 
-4. Mark the issue for the scenario 5W2 in Transformation Cockpit as *In Progress* and then to *Resolved*
+5. Mark the issue for the scenario 5W2 in Transformation Cockpit as *In Progress* and then to *Resolved*
 
 
 ## Summary
