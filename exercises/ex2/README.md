@@ -55,6 +55,7 @@ Check the following configuration issues for differences (copy and paste the tex
 9. Review the deviations between ECC data and reference content.
 >Note: You can identify the related configuration activities (SSCUIs) for which the selected issue occurred using *Links to SSCUIs* button
 
+
 **Summary**
 You've now used the Transformation Cockpit to resolve the issues detected during the configuration migration.
 
