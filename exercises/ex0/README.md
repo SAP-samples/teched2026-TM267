@@ -66,8 +66,8 @@ Identify the solution processes which need to be added via a ticket and the solu
 - Check scenario 5W2 in the Transformation Cockpit. This solution processes has a constraint and can only be added to scope together with a group ledger.
 >Note:
 Details about solution process usage and constraints can be found in the [SAP Process Navigator](https://me.sap.com/processnavigator/SolS/EARL_SolS-013/2608?region=DE) 
-3. Open *Define Scope* , search for solution process 5W2 and add it to scope.
-4. Mark the issue in Transformation Cockpit as *Resolved*
+3. Open *Scope* app , search for solution process 5W2 and add it to scope. Confirm the warning which comes up and the solution process is added to your scope.
+4. Mark the issue in Transformation Cockpit as *In Progress* and then to *Resolved*
 
 
 ## Summary
