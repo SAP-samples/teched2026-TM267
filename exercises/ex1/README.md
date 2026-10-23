@@ -47,7 +47,7 @@ Note: Resolved issues do not disappear from the list automatically — they must
 10. Now search for 1010 plant, select it and enter a name which is shorter than 30 characters
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03f311cb-4fa2-4e35-b629-08d2e8ec30ee" />
 
-12. Mark the resolved issues as resolved in the Transformation Cockpit.
+11. Mark the resolved issues as resolved in the Transformation Cockpit.
 >Note: Once the issue is resolved in the Organizational Structure app, you can set the status of the issue in Transformation Cockpit to *in progress* and then to *resolved*. 
 
 
