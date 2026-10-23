@@ -52,7 +52,7 @@ Check the following configuration issues for differences (copy and paste the tex
 7. Select a configuration issue and navigate to the *Comparison App*.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/539db38f-c57d-4a24-bf0b-ec9783147833" />
 
-9. Review the deviations between ECC data and reference content.
+8. Review the deviations between ECC data and reference content.
 >Note: You can identify the related configuration activities (SSCUIs) for which the selected issue occurred using *Links to SSCUIs* button
 
 
