@@ -30,7 +30,7 @@ Familiarize yourself with SAP Central Business Configuration.
 
 SAP Central Business Configuration acts as the backbone for your implementation and provides the apps for scoping, organizational structure setup and configuration.
 
-Each implementation in SAP Central Business Configuration is covered in an own workspace. Additional context (e.g. legacy system data) can be assigned to each Workspace and acts as a Basis for the agents.
+Each implementation in SAP Central Business Configuration is covered in an own workspace. Additional context (e.g. legacy system data) is assigned to each workspace and acts as a basis for the agents.
 
 Note: Unlike in a real implementation we prepared individual workspaces for the exercises to avoid unneccessary waiting time for longer background processes. You will be guided to select the correct workspace as part of the task.    
 
