@@ -1,5 +1,7 @@
 # TM267 - Transform your configuration of SAP S/4HANA Cloud with agentic AI
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-TM267)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-TM267)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2026 session TM267 - Transform your configuration of SAP S/4HANA Cloud with agentic AI
